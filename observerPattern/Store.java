@@ -1,4 +1,3 @@
-import observable.IphoneObservable;
 import observable.*;
 import observer.*;
 

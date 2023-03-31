@@ -1,6 +1,5 @@
 package observer;
 
-import observer.NotificationAlertObserver;
 import observable.StocksObservable;
 import java.util.*;
 
