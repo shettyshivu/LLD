@@ -1,7 +1,6 @@
 package observer;
 
 import observable.StocksObservable;
-import java.util.*;
 
 public class MobileNotificationObserver implements NotificationAlertObserver{
     String mobileNumber;

@@ -1,6 +1,5 @@
 package observer;
 
-import java.util.*;
 import observable.StocksObservable;
 
 public class EmailNotificationAlertObserver implements NotificationAlertObserver{
