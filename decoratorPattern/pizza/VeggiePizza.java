@@ -1,9 +1,9 @@
 package decoratorPattern.pizza;
 
 public class VeggiePizza implements BasePizza{
-    private int veggiePizzaCost;
+    private int veggiePizzaCost = 299;
     
-    public VeggiePizza(int veggiePizzaCost){
+    public void setVeggiePizzaCost(int veggiePizzaCost){
         this.veggiePizzaCost = veggiePizzaCost;
     }
 
